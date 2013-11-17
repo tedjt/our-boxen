@@ -55,3 +55,11 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "sublime_text_2", "1.1.2"
+github "dropbox", "1.1.1"
+github "iterm2", "1.0.3"
+github "chrome", "1.1.1"
+github "heroku", "2.0.0"
+github "macvim", "1.0.0"
+github "virtualbox", "1.0.2"
+github "sourcetree", "0.0.2"
