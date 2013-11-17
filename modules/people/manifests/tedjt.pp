@@ -1,4 +1,4 @@
-class people::ted {
+class people::tedjt {
   include sublime_text_2
   include dropbox
   include iterm2
